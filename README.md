@@ -6,4 +6,4 @@ exemplo para estudante
 
 lembrei do comando: git status
 
-
+tentiar tags
